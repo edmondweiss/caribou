@@ -1,0 +1,28 @@
+{
+  "name": "caribou",
+  "version": "1.0.0",
+  "description": "Caribou copies repositories in full and moves them to another git location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmondweiss/caribou.git"
+  },
+  "keywords": [
+    "caribou",
+    "git",
+    "migrate",
+    "move",
+    "repo",
+    "repository",
+    "repositories"
+  ],
+  "author": "Edmond Weiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmondweiss/caribou/issues"
+  },
+  "homepage": "https://github.com/edmondweiss/caribou#readme"
+}
